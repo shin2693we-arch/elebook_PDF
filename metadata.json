@@ -1,0 +1,6 @@
+{
+  "name": "모노그래프 — 한 쪽 사진 앨범 & PDF 제작기",
+  "description": "사진 여러 장을 올려 한 쪽에 한 장씩 제목과 설명을 기록하고, 이전·다음 버튼으로 감상하며 PDF로 저장하는 웹 앨범입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
